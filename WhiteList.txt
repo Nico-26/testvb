@@ -1,9 +1,9 @@
 @@microsoft.com^
 @@account.microsoft.com^
 @@login.microsoftonline.com^
-@@office.com
-@@microsoft365.com
-@@*microsoft365.com
+@@office.com^
+@@microsoft365.com^
+@@*microsoft365.com^
 @@*.microsoftonline.com^
 @@*.microsoft.com^
 @@*.msocdn.com^
