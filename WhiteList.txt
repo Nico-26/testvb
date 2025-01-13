@@ -1,7 +1,7 @@
 @@example.com
 @@bookcreator.com
-@@||microsoft365.com^
-@@||microsoft.com^
+@@microsoft.com^
+@@microsoft365.com^
 @@dico.lu
 @@vaubanluxembourg.padlet.org
 @@esidoc.fr
