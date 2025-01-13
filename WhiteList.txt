@@ -1,4 +1,4 @@
-@@microsoft.com^
-@@account.microsoft.com^
-@@login.microsoft.com^
-@@*.microsoft.com^
+@@microsoft.com
+@@account.microsoft.com
+@@login.microsoft.com
+@@*.microsoft.com
