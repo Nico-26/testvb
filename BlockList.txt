@@ -1,3 +1,1 @@
-||example.org^
-||youtube.com^
-||fff.fr^
+||*$important
