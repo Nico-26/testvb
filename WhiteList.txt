@@ -1,1 +1,4 @@
-@@||microsoft.com^$important
+@@microsoft.com^
+@@account.microsoft.com^
+@@login.microsoft.com^
+@@*.microsoft.com^
