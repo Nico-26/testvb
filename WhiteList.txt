@@ -1,9 +1,6 @@
+@@||microsoft.com^
 @@example.com
 @@bookcreator.com
-@@microsoftonline.com
-@@login.microsoftonline.com
-@@microsoft.com
-@@microsoft365.com
 @@dico.lu
 @@vaubanluxembourg.padlet.org
 @@esidoc.fr
