@@ -54,3 +54,4 @@
 @@||*.akamaiedge.net^
 @@||*.fb-t-msedge.net^
 @@||*.cdn.office.net^
+@@||*.trafficmanager.net^
