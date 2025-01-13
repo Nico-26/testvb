@@ -1,4 +1,4 @@
-@@||microsoft.com^
+@@|microsoft.com^
 @@example.com
 @@bookcreator.com
 @@dico.lu
