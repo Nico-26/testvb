@@ -1,4 +1,4 @@
 @@||larousse.fr^
-@@||test-english.fr^
+@@||test-english.com^
 @@||vauban.lu^
 @@||*.vauban.lu^
