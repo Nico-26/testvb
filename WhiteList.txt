@@ -18,3 +18,4 @@
 @@unicaen.fr
 @@federate365.com
 @@test-english.com
+@@|*.googlevideo.com^$important
