@@ -1,6 +1,7 @@
 @@example.com
 @@bookcreator.com
 @@microsoft365.com
+@@microsoft.com
 @@dico.lu
 @@vaubanluxembourg.padlet.org
 @@esidoc.fr
@@ -17,4 +18,4 @@
 @@lexilogos.com
 @@unicaen.fr
 @@federate365.com
-@@test-english.com 
+@@test-english.com
