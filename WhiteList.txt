@@ -583,4 +583,5 @@
 @@||leblob.fr^
 @@||youtube.com/watch?v=r_aojYqud_0^
 @@||fr.search.yahoo.com^
+@@||*.fr.search.yahoo.com^
 @@||*.vauban.lu^
