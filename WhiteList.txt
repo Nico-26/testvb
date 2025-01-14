@@ -584,5 +584,5 @@
 @@||youtube.com/watch?v=r_aojYqud_0^
 @@||ladigitale.dev/digiview/#/v/67615cad5654d^
 @@||fr.search.yahoo.com^
-@@||*.fr.search.yahoo.com^
+@@||*.yahoo.com^
 @@||*.vauban.lu^
