@@ -602,3 +602,4 @@
 @@||*.ystg1.b.yahoo.com^
 @@||*.smoot.apple.com^
 @@||*.ls.apple.com^
+@@||*.aaplimg.com^
