@@ -593,6 +593,7 @@
 @@||pancake.apple.com^
 @@||googletagmanager.com^
 @@||app-analytics-services.com^
+@@||youtube-nocookie.com^
 @@||*.googlesyndication.com^
 @@||*.google-analytics.com^
 @@||*.core.windows.net^
