@@ -591,7 +591,10 @@
 @@||init.ess.apple.com^
 @@||static.ess.apple.com^
 @@||pancake.apple.com
-@@||tiprod20storage.blob.core.windows.net
 @@||googletagmanager.com^
+@@||fr.search.yahoo.com^
+@@||*.googlesyndication.com^
+@@||*.google-analytics.com^
+@@||*.core.windows.net^
 @@||*.vauban.lu^
 @@||*.t-msedge.net^
