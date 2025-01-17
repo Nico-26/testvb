@@ -594,6 +594,7 @@
 @@||googletagmanager.com^
 @@||fr.search.yahoo.com^
 @@||guce.yahoo.com^
+@@||app-analytics-services.com^
 @@||*.googlesyndication.com^
 @@||*.google-analytics.com^
 @@||*.core.windows.net^
@@ -603,3 +604,4 @@
 @@||*.smoot.apple.com^
 @@||*.ls.apple.com^
 @@||*.aaplimg.com^
+@@||*.googleapis.com^
