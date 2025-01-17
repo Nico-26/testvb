@@ -592,15 +592,12 @@
 @@||static.ess.apple.com^
 @@||pancake.apple.com^
 @@||googletagmanager.com^
-@@||fr.search.yahoo.com^
-@@||guce.yahoo.com^
 @@||app-analytics-services.com^
 @@||*.googlesyndication.com^
 @@||*.google-analytics.com^
 @@||*.core.windows.net^
 @@||*.vauban.lu^
 @@||*.t-msedge.net^
-@@||*.ystg1.b.yahoo.com^
 @@||*.smoot.apple.com^
 @@||*.ls.apple.com^
 @@||*.aaplimg.com^
