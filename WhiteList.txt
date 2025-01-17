@@ -590,7 +590,7 @@
 @@||p43-caldav.icloud.com^
 @@||init.ess.apple.com^
 @@||static.ess.apple.com^
-@@||pancake.apple.com
+@@||pancake.apple.com^
 @@||googletagmanager.com^
 @@||fr.search.yahoo.com^
 @@||guce.yahoo.com^
@@ -599,3 +599,6 @@
 @@||*.core.windows.net^
 @@||*.vauban.lu^
 @@||*.t-msedge.net^
+@@||*.ystg1.b.yahoo.com^
+@@||*.smoot.apple.com^
+@@||*.ls.apple.com^
