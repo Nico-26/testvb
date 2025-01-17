@@ -593,6 +593,7 @@
 @@||pancake.apple.com
 @@||googletagmanager.com^
 @@||fr.search.yahoo.com^
+@@||guce.yahoo.com^
 @@||*.googlesyndication.com^
 @@||*.google-analytics.com^
 @@||*.core.windows.net^
