@@ -593,7 +593,8 @@
 @@||pancake.apple.com^
 @@||googletagmanager.com^
 @@||app-analytics-services.com^
-@@||youtube-nocookie.com^
+@@||fr.search.yahoo.com^
+@@||guce.yahoo.com^
 @@||*.googlesyndication.com^
 @@||*.google-analytics.com^
 @@||*.core.windows.net^
@@ -604,3 +605,4 @@
 @@||*.aaplimg.com^
 @@||*.googleapis.com^
 @@||*.googlevideo.com^
+@@||*.ystg1.b.yahoo.com^
