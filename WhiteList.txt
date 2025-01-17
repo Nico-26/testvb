@@ -583,3 +583,10 @@
 @@||leblob.fr^
 @@||youtube.com/watch?v=r_aojYqud_0^
 @@||ladigitale.dev/digiview/#/v/67615cad5654d^
+@@||gs-loc.apple.com^
+@@||bag.itunes.apple.com^
+@@||p43-contacts.icloud.com^
+@@||p44-contacts.icloud.com^
+@@||p43-caldav.icloud.com^
+@@||init.ess.apple.com^
+@@||static.ess.apple.com^
