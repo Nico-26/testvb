@@ -590,3 +590,8 @@
 @@||p43-caldav.icloud.com^
 @@||init.ess.apple.com^
 @@||static.ess.apple.com^
+@@||pancake.apple.com
+@@||tiprod20storage.blob.core.windows.net
+@@||googletagmanager.com^
+@@||*.vauban.lu^
+@@||*.t-msedge.net^
